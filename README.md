@@ -2,4 +2,4 @@ This is a set of system sounds for KDE Plasma 6 that will add a bit of science f
 
 For installation just launch install.sh
 
-If you like my work, you can support me here https://boosty.to/alexpluz
+If you like my work, you can support me here [https://boosty.to/alexpluz](https://boosty.to/alexpluz/donate)
