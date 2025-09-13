@@ -1,3 +1,5 @@
 This is a set of system sounds for KDE Plasma 6 that will add a bit of science fiction to your system. Createt with Sillero TTS.
 
 For installation just launch install.sh
+
+If you like my work, you can support me here https://boosty.to/alexpluz
